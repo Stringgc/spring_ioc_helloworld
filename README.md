@@ -1,2 +1,2 @@
 # spring_ioc_helloworld
-Demoemo of spring IOC
+Demo of spring IOC
