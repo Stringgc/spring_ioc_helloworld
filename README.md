@@ -1,2 +1,2 @@
 # spring_ioc_helloworld
-gg
+Demoemo of spring IOC
